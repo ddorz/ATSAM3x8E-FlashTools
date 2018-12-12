@@ -1,0 +1,3 @@
+Example Program 1
+
+Example using write/read functions to write and read data to flash, and MPUConfigureRegion function to enable MPU and protect flash region.
